@@ -5,7 +5,7 @@ The following files are completely mine:
 -AnimationSystem
 -AnimationObject
 
-The following files part are of mine:
+The following files part are mine:
 RenderObject
 GameTechRenderer
 

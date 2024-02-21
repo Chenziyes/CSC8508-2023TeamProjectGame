@@ -2,17 +2,14 @@ All code that is mine should be marked with an author tag and a brief descriptio
 
 The following files are completely mine:
 
-- LevelGenerator.h
-- LevelGenerator.cpp
+-AnimationSystem
+-AnimationObject
 
-The following files do not contain any code that has been written or editted by myself:
+The following files part are of mine:
+RenderObject
+GameTechRenderer
 
-- Assets
-- CMake
-- CMakeFiles
-- NCLCoreClasses
-- OpenGL rendering
-- VulkanRendering
+
 
 CMAKE Instructions for getting code on own machine:
 
